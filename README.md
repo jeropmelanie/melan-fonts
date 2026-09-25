@@ -2,13 +2,6 @@
 
 A custom typeface, made to be sideloaded onto Samsung devices via zFont 3.
 
-## Preview
-
-<p align="center">
-  <img src="image_Kyk-9w.png" width="45%" alt="Melan applied to Settings" />
-  <img src="image_ePHl__.png" width="45%" alt="Melan applied to Phone app" />
-</p>
-
 ## Installation
 
 **Tested on:** Samsung devices, Android 9–13
@@ -23,7 +16,7 @@ A custom typeface, made to be sideloaded onto Samsung devices via zFont 3.
 2. Install **zFont 3** and **zFile**, both from the Play Store
 3. Open zFont 3 — signing in with a **Samsung account** isn't required for this step
 
-   > Real talk: zFont 3 comes packed with hundreds of built-in fonts on its Home tab — go ahead, browse them. But you're here for Melan, so let's set that up first. And keep an eye on this repo, because a cooler upgraded version is coming soon 👀
+   > Real talk: zFont 3 comes packed with hundreds of built-in fonts on its Home tab — go ahead, browse them. But you're here for Melan, so let's set that up first. And keep an eye on this repo, because a cooler upgraded version is coming soon 
 
 4. Go to the **Downloads** tab → tap the **+** icon → tap the folder icon → select `Melan.ttf` (it'll be sitting in your phone storage)
 5. Preview it, then tap **Apply** — this installs it as a replacement for the Samsung Sans system font
