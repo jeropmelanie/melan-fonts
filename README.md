@@ -4,16 +4,10 @@ A custom typeface, made to be sideloaded onto Samsung devices via zFont 3.
 
 ## Preview
 
-
-
-![Melan applied to Phone app](screenshots/phone-app.jpg)
-
-
-
-
-![Melan applied to Settings](screenshots/settings-menu.jpg)
-
-
+<p align="center">
+  <img src="image_Kyk-9w.png" width="45%" alt="Melan applied to Settings" />
+  <img src="image_ePHl__.png" width="45%" alt="Melan applied to Phone app" />
+</p>
 
 ## Installation
 
