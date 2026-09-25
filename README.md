@@ -7,7 +7,7 @@
 
 4. Go to the **downloads** tab → tap the plus icon **->** folder icon → select `Melan.ttf` it will be sitting at your phone storage 
 5. Preview it, then tap **Apply** — this installs it as a replacement for the Samsung Sans system font
-6. follow the on-screen steps starting from installing SamsungSans **when finished downloading don't tap at open, just tap at done and press the back option until you reach ****z font3**** then go for next step.
+6. follow the on-screen steps starting from installing SamsungSans ***when finished downloading don't tap at open, just tap at done and press the back option until you reach z font3*** then go for next step.
 7. for backing up just back up only the ***Settings*** leave the calendar and all those 
 8. when you're at the Last step of restoring Settings restore only the ***Settings*** once the progress reaches 70 you'll see the magic.
 
