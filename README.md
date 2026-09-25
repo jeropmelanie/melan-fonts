@@ -4,10 +4,14 @@ A custom typeface, made to be sideloaded onto Samsung devices via zFont 3.
 
 ## Preview
 
-<!-- Add a screenshot/specimen image of the font here -->
 
 
-![Melan font preview](screenshots/preview.png)
+![Melan applied to Phone app](screenshots/phone-app.jpg)
+
+
+
+
+![Melan applied to Settings](screenshots/settings-menu.jpg)
 
 
 
@@ -39,25 +43,6 @@ A custom typeface, made to be sideloaded onto Samsung devices via zFont 3.
 
 > ⚠️ This has only been tested on Samsung (Android 9–13). zFont 3 does list options for other brands, but these are untested — try at your own risk.
 
-## Screenshots
-
-<!-- Drop 3–4 images in a /screenshots folder, then reference them like below -->
-| Local tab | File picker | Applied |
-|---|---|---|
-| 
-
-![](screenshots/local-tab.png)
-
- | 
-
-![](screenshots/picker.png)
-
- | 
-
-![](screenshots/applied.png)
-
- |
-
 ## Known Issues
 - Only verified on Samsung, One UI, Android 9–13
 - Not tested on other OEMs (Xiaomi, Oppo, Pixel, etc.) — zFont 3 lists options for them, but use at your own risk
@@ -68,6 +53,4 @@ A custom typeface, made to be sideloaded onto Samsung devices via zFont 3.
 <!-- e.g. "Free for personal use" or an open license like SIL OFL — add your terms here -->
 
 ## Credits
-
-<!-- Your name / GitHub handle -->
-Made by [your name here]
+Made by [kimtaieugeen]
