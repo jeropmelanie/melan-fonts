@@ -3,11 +3,11 @@
 2. Install **zFont 3** and **zFile** both from playstore 
 3. Open zFont 3 and sign in / register with your **Samsung account** not must for now 
 
-   > Real talk: zFont 3 comes packed with hundreds of built-in fonts on its Home tab — go ahead, browse them. But you're here for Melan, so let's set that up first. And keep an eye on this repo, because a cooler upgraded version is coming soon 👀
+   > Real talk: zFont 3 comes packed with hundreds of built-in fonts on its Home tab — go ahead, browse them. But you're here for Melan, so let's set that up first. And keep an eye on this repo, because a cooler upgraded version is coming soon 
 
 4. Go to the **downloads** tab → tap the plus icon **->** folder icon → select `Melan.ttf` it will be sitting at your phone storage 
 5. Preview it, then tap **Apply** — this installs it as a replacement for the Samsung Sans system font
-6. follow the on-screen steps starting from installing SamsungSans **when finisheddownloading don'tap on open, just tap on done and press the back option untilyoureach **** z font3**** then go for next step.
+6. follow the on-screen steps starting from installing SamsungSans **when finished downloading don't tap at open, just tap at done and press the back option until you reach ****z font3**** then go for next step.
 7. for backing up just back up only the ***Settings*** leave the calendar and all those 
 8. when you're at the Last step of restoring Settings restore only the ***Settings*** once the progress reaches 70 you'll see the magic.
 
