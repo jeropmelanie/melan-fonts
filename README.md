@@ -47,10 +47,5 @@ A custom typeface, made to be sideloaded onto Samsung devices via zFont 3.
 - Only verified on Samsung, One UI, Android 9–13
 - Not tested on other OEMs (Xiaomi, Oppo, Pixel, etc.) — zFont 3 lists options for them, but use at your own risk
 - The zFont 3 UI/steps may change slightly with app updates
-
-## License
-
-<!-- e.g. "Free for personal use" or an open license like SIL OFL — add your terms here -->
-
 ## Credits
 Made by [kimtaieugeen]
